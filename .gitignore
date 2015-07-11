@@ -1,0 +1,14 @@
+node_modules
+dist
+.tmp
+
+# @TODO seed
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+tmp
+.DS_Store
+.idea
+
+# mettre le miens
