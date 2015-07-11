@@ -1,5 +1,5 @@
 # Angular Starter Kit
 
-Google's Web Starter Kit packed with AngularJS
+AngularJS packed with Google's Web Starter Kit
 
 First `npm install` then `gulp serve`
